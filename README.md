@@ -1,8 +1,8 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem-vindo(a) ao perfil da Bruna de Oliveira Rosa 😁
 
  <div>
    <a href="https://github.com/BrunaOliveiraRosa">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunaOliveiraRosa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunaOliveiraRosa&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaOliveiraRosa&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
