@@ -11,11 +11,9 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Selenium" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
-
-  <div style="background-color: white; display: inline-block; padding: 2px; border-radius: 4px;">
-    <img align="center" alt="Robot Framework" height="30" width="40" src="./robot-framework.svg">
-  </div>  
+  <img align="center" alt="Robot Framework" height="30" width="40" src="./robot-framework.svg" style="background-color: white; padding: 4px; border-radius: 4px;">
 </div>
+
 
  
 <br>
