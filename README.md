@@ -12,7 +12,7 @@
  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="center" alt="Selenium" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
- <img align="center" alt="Robot Framework" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Robotframework.svg">
+ <img align="center" alt="Robot Framework" height="30" width="40" src="https://raw.githubusercontent.com/juliensalinas/robotframework-logo/master/robotframework-logo.svg">
 
 
 </div>
